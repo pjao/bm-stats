@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# HAMDMR Â· Galera Cluster de 3 nos Â· Fase 0 Â· Auditoria exclusivamente de leitura
-# 2026-10-19 Â· r1 Â· COMPATIVEL: Debian 13 / MariaDB 11.8
+# HAMDMR · Galera Cluster de 3 nos · Fase 0 · Auditoria exclusivamente de leitura
+# 2026-10-19 · r1 · COMPATIVEL: Debian 13 / MariaDB 11.8
 # Nao instala pacotes, nao escreve ficheiros e nao altera unidades ou firewall.
 set -u
 export LC_ALL=C SYSTEMD_PAGER=cat PAGER=cat SYSTEMD_COLORS=0
